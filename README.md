@@ -44,7 +44,7 @@ The list of cities and their population statistics must be downloaded from https
 It could be any source, the goal is to provide a list of cities with their population statistics. <br>
 We have provided the CSV files that were used to generate the results in the paper. These can be used to understand the CSV format.
 
-- Select a location `<work_space>` where there is sufficient hard disk drive to store network and buildings data.
+- Select a location `<work_space>` where there is sufficient hard disk drive (`>100GB`) to store network and buildings data.
 - Clone the repository in the `<work_space>` folder, you can clone to other locations too. 
 - Create a folder called `input_files` in the `<work_space>` folder.
 - Place the population statistics CSV file in the `input_files` folder.
