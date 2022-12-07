@@ -1,0 +1,6 @@
+print(' ')
+print('This script needs to be run from the QGIS Python console')
+print('Open a blank QGIS project and run this file - src/qgis/qgis_block_extraction.py')
+print('The script will extract blocks from the street networks and save them as geodataframes.')
+print('After that script is done, you can close QGIS and resume with the next shell script.')
+print(' ')
