@@ -7,8 +7,7 @@ python3 ./src/evaluation/figures/Fig3_plot_clustering_dendrogram.py
 python3 ./src/evaluation/figures/Fig4_plot_cluster_city_examples.py
 python3 ./src/evaluation/figures/Fig5_bcr_regional_distribution.py
 python3 ./src/evaluation/figures/Fig6_bcr_shape_regional_distribution.py
-python3 ./src/evaluation/figures/Fig7_regional_comparison.py
-python3 ./src/evaluation/figures/Fig8_newyork_bcr_comparison.py
+python3 ./src/evaluation/figures/Fig7_newyork_bcr_comparison.py
 echo "......Generating text files with stats displayed in the tables......"
 sleep 2
 python3 ./src/evaluation/tables/Tab2_bcr_clustering.py
